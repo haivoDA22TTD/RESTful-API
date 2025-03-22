@@ -19,7 +19,7 @@
 ## Sau khi đăng nhập thành công gõ từ khóa này để vào trang chứa các API
   http://localhost:8082/api/accounts
 ## Hình ảnh trang chứa API
-  ![image](https://github.com/user-attachments/assets/7b9e2258-9ac6-4378-99d0-185ba23d866e)
+  ![image](https://github.com/user-attachments/assets/3de9ad69-b900-4646-a8cc-f95ca7c147f2)
 ## Mở postman và ấn vào mục Authorization
   ![image](https://github.com/user-attachments/assets/6a8b8f7d-cf25-416f-b6e7-866f455f1562)
 ## Chọn mục Auth Type chọn options Basic Auth
@@ -30,7 +30,8 @@
   copy http của trang và paste vào thanh địa chỉ chọn phương thức GET sau đó ấn nút Send để xem kết quả
   ![image](https://github.com/user-attachments/assets/562551f0-9a2d-4044-8c36-858c4c27cbe9)
 ## Kết quả
-  ![image](https://github.com/user-attachments/assets/7596129b-d5d2-4e1d-8894-09ae981a04e6)
+  ![image](https://github.com/user-attachments/assets/c8d1596e-0e8d-456e-a12d-093a3e30a60a)
+
 
 
   
