@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bc79efd3-2c8f-4287-bb00-98e423c82003)## Hướng dẫn cài đặt
+## Hướng dẫn cài đặt
   Dùng git clone để lấy repo về máy https://github.com/haivoDA22TTD/RESTful-API.git
 ## Tải và cài đặt Xampp
   https://www.apachefriends.org/download.html
